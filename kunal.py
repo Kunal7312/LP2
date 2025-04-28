@@ -1,1 +1,1 @@
-print("Golu Shukla")
+print("Guru Gobind Singh College of engineering")
